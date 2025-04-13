@@ -19,7 +19,9 @@ This project focuses on the design and simulation of a low-power CMOS-Based Char
 2. **Circuit Implementation:** Implemented a CMOS-based charge pump circuit using advanced circuit topology.
 3. **Layout Optimization:** Optimized the physical layout to minimize parasitic effects and enhance efficiency.
 4. **Simulation & Validation:** Conducted thorough simulations to validate the performance improvements and power reduction.
+
 <img width="1280" alt="CPPLL" src="https://github.com/user-attachments/assets/4ee2c94f-8b94-4e36-ba3a-0374efa7ef7c" />
+
 ## Tools & Technologies
 - **Design Tools:** Cadence Virtuoso, HSPICE, LTspice
 - **Technology:** CMOS Process Technology
